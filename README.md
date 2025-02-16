@@ -49,4 +49,5 @@ multiple=False: Bu parametre, kullanıcının sadece bir dosya yüklemesine izin
 accept=[".zip"]: Bu kod kullanıcının sadece ZIP dosyalarını yüklemesine izin verir.
 
 ui.output_plot("umap_plot"): Bu kod, UMAP grafiğini gösterecek bir alan oluşturur.
+
 ui.output_text("error_message"): Bu kod, hata mesajlarını gösterecek bir alan oluşturur.
