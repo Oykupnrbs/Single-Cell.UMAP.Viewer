@@ -1,0 +1,5 @@
+shiny 
+scanpy 
+matplotlib.pyplot 
+zipfile
+os
